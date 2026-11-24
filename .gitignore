@@ -1,0 +1,9 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+artifacts/
+*.user
+*.suo
+*.tmp
+*.zip
+*.rar
